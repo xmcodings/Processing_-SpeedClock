@@ -19,4 +19,7 @@ rotation direction, from c-clockwise to clockwise
 
 So, when second is 1, outer circle moves very slow.
 When it is 59, it moves very fast, and stops at 0.
+Same with other 3 circles.
 
+When hour>12 the inner circle changes
+rotation direction, from c-clockwise to clockwise to show its p.m.
